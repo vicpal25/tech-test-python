@@ -1,4 +1,4 @@
-# Python Take-Home — Solutions
+# Python — Solutions
 
 Standard library only (Python 3.10+). All five tasks are in `solutions.py`.
 
